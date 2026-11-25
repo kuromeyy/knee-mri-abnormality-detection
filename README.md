@@ -88,7 +88,7 @@ All notebooks are saved with their outputs, so every number in the thesis can be
 | `rsna-knee-29-dinov2-crop-280` | DINOv2-S students on crop and 280 px data |
 | `rsna-knee-32-dinov2-crop280` | DINOv2-S students on crop 280 data |
 | `rsna-knee-35-ablasi-tanpa-guru` | Ablation: DINOv2-S students without the teacher, seeds 42 and 7 |
-| `rsna-knee-36` | Ablation without the teacher with seed 11, and EfficientNet-B0 with the same settings as DINOv2-S (controlled comparison) |
+| `rsna-knee-36-ablasi-seed11-effb0-terkontrol` | Ablation without the teacher with seed 11, and EfficientNet-B0 with the same settings as DINOv2-S (controlled comparison) |
 
 ### 5. Ensemble analysis
 
